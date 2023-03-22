@@ -15,6 +15,10 @@ Contains all the sources I have used to build VAE
 - [Hands-On Bayesian Neural Network-A tutorial bfor Deep Learning Users](https://arxiv.org/pdf/2007.06823.pdf) 
 
 ## Blogs
+- [Variational Autoencoder](https://mbernste.github.io/posts/vae/) By Jeremy Bernstein
+- [Black-box Variational Inference via the reparameterization gradient](https://mbernste.github.io/posts/reparameterization_vi/) By Jeremy Bernstein
+- [Variational Inference](https://mbernste.github.io/posts/variational_inference/) By Jeremy Bernstein 
+  - Note: These blogs by Jeremey Bernstein contains mathematical discussion on variational autoencoder and why it is called variational and so forth. Nice one.
 - [Totorial#5: Variational Autoencoder](https://www.borealisai.com/research-blogs/tutorial-5-variational-auto-encoders/) By Borealis AI
 - [A Step Up with Variational AutoEncoders] (https://jaketae.github.io/study/vae/) By Jake Tae
   - Note: Other blog posts by Jake Tae are very informative  
