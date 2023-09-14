@@ -12,7 +12,9 @@ Contains all the sources I have used to build VAE
 - [GEE: A Gradient-based Explainable Variational Autoencoder for Network Anomaly Detection System](https://www.comp.nus.edu.sg/~lowkh/pubs/cns2019.pdf)
 - [Normalizing Flows: An Introduction and Review of Current Methods](https://arxiv.org/abs/1908.09257) By Koyzev, Simon, Brubaker (2020)
 - [beta-VAE:Learning Basic Visual Concepts with a Constrained Variational Framework](https://www.deepmind.com/publications/beta-vae-learning-basic-visual-concepts-with-a-constrained-variational-framework) by Higgins, Matthey, Pal, Burgess, Glorot, Botvinick, Mohamed, Lerchner (DeepMind)
-- [Hands-On Bayesian Neural Network-A tutorial bfor Deep Learning Users](https://arxiv.org/pdf/2007.06823.pdf) 
+- [Hands-On Bayesian Neural Network-A tutorial bfor Deep Learning Users](https://arxiv.org/pdf/2007.06823.pdf)
+- [Data Augmentation in HDLSS with VAE](https://arxiv.org/pdf/2105.00026.pdf)
+  - This is a very nice paper in terms of how easily it explained some of the complicated stuff on how to improve upon the traditional VAE. More importantly, it contains lots of references to other papers that tried to improve modeling of the data distribution as well as moving away from traditional gaussian prior. **Must read** (even if some of the Reimannian Metric stuff is not clear).    
 
 ## Blogs
 - [Variational Autoencoder](https://mbernste.github.io/posts/vae/) By Jeremy Bernstein
