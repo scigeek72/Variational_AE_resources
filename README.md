@@ -57,4 +57,6 @@ Contains all the sources I have used to build VAE
 - [Tensorflow-Probability + Keras]()
 - [Pyro: Variational AE](http://pyro.ai/examples/vae.html)
   - Note: VAE in pytorch
+- [VAE_BENCHMARK](https://github.com/clementchadebec/benchmark_VAE)
+  - Has a lot of resources. Look at it's Readme page. Also, there are a lot of different VAE models implemented in PyTorch along with different samplers.  
 
